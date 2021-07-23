@@ -30,7 +30,7 @@ Instructions
 2.	Before plugging in the programmer to the PC with the Wio Node connected to it as above, press the *func* button on the Wio Node. Keeping the *RST* button pressed plug the programmer into the PC. Once plugged in, release the button.
   - This ensures that the wio node starts in programmable mode.
   - Please Note: In order to flash the Wio Node again, you will have to eject the programmer and plug it again following this procedure.
-4.	Now flash your program code as required, however remember to keep the following commands in the setup retain the functionality of the ports:
+4.	Now flash your program code as required, however remember to keep the following commands in the setup to retain the functionality of the ports:
 
                   pinMode(15, OUTPUT);
                   digitalWrite(15, 1);
