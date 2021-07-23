@@ -31,8 +31,10 @@ Instructions
   - This ensures that the wio node starts in programmable mode.
   - Please Note: In order to flash the Wio Node again, you will have to eject the programmer and plug it again following this procedure.
 4.	Now flash your program code as required, however remember to keep the following commands in the setup retain the functionality of the ports:
+
                   pinMode(15, OUTPUT);
                   digitalWrite(15, 1);
+                  
 5.	Press the RST button to run the code that you uploaded
 6.	Now flash and use your Wio Node and make full use of it’s portable size.
 7.	If you want to make use of both the ports, power the Node via USB or Battery pack.
