@@ -19,8 +19,8 @@ Instructions
 
                    |  ]---||o  U0RXD				| 1 | 2 |     _____
                    |  ]---||o  U0TXD				| 3 | 4 |          |
-                   |  ]---||o  VCC					| 5 | 6 |     _____|
-                   |  ]---||o  GND					| 7 | 8 |
+                   |  ]---||o  VCC				| 5 | 6 |     _____|
+                   |  ]---||o  GND				| 7 | 8 |
 
                   Connect GND to pin 2 of ESP programmer.
                   Connect VCC to pin 7 of ESP programmer.
